@@ -45,3 +45,15 @@
         
     }
 }
+
+@media only screen and (max-width: 500px){
+    .sectiontag{
+        display: block;
+    }
+
+    .thumbnail{
+        display: block;
+        margin: auto;
+        padding: 40px;
+    }
+}
